@@ -1,4 +1,4 @@
-app = "ercot-monitor"
+app = "ercot-alert"
 primary_region = "dfw"
 
 [build]
