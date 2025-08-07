@@ -1,5 +1,0 @@
-app            = "ercot-monitor"   # any unique name; we’ll reserve it in the next step
-primary_region = "dfw"             # Dallas = close to ERCOT
-
-[build]
-  dockerfile = "Dockerfile"
